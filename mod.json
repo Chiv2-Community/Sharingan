@@ -1,0 +1,9 @@
+{
+  "repo_url": "https://github.com/Chiv2-Community/Sharingan",
+  "name": "Sharingan",
+  "description": "Debug substitute for drawing invisible game objects",
+  "mod_type": "Shared",
+  "authors": [ "DrLong" ],
+  "dependencies": [],
+  "tags": [ "Mutator" ]
+}
